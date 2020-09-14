@@ -1,0 +1,3 @@
+Parker Bywater
+Vim or JetBrains if I really need an IDE
+Rust
