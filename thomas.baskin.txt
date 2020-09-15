@@ -1,0 +1,3 @@
+Thomas Baskin
+JetBrains IDEs
+Python
