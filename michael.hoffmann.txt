@@ -1,0 +1,3 @@
+Michael Hoffmann
+Favorite environment: VSCode
+Favorite language: C# or python, depends on the project
